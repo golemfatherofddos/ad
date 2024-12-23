@@ -1,6 +1,5 @@
 import os
 import asyncio
-from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 TELEGRAM_BOT_TOKEN = '8057702686:AAHiVyd9bdhHzLWJ7CRBujAduJCmbQnKQi0'
