@@ -1,6 +1,4 @@
 import os
-import asyncio
-from telegram.ext import Application, CommandHandler, CallbackContext
 
 TELEGRAM_BOT_TOKEN = '8057702686:AAHiVyd9bdhHzLWJ7CRBujAduJCmbQnKQi0'
 ALLOWED_USER_ID = 7584228621 
